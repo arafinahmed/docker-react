@@ -20,5 +20,3 @@ deploy:
     branch: main
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
-
-Docker-react-env.eba-4gp6hnuy.us-east-1.elasticbeanstalk.com
